@@ -2,6 +2,10 @@
 
 Send Static Website
 
+## Demo
+
+[Link](https://jocular-dragon-e6ce24.netlify.app/)
+
 ## Getting Started
 
 Clone this repo, and make sure to run the commands mentioned below from your terminal within the root project directory.
