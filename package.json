@@ -1,0 +1,25 @@
+{
+	"name": "static-send-site",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"setup": "npm install && npx husky install"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mittell/static-send-site.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mittell/static-send-site/issues"
+	},
+	"homepage": "https://github.com/mittell/static-send-site#readme",
+	"devDependencies": {
+		"@commitlint/cli": "^17.1.2",
+		"@commitlint/config-conventional": "^17.1.0",
+		"husky": "^8.0.1"
+	}
+}
